@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya.pl",
-    "currentPage": "articles-our-identity-purpose-life-truth-freedom-love-loneliness-sect-religion.html",
+    "currentPage": "lectures.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -371,7 +371,7 @@
                 "active": false
               },
               {
-                "tags": "Wywiad",
+                "tags": "Wywiad, Harmonia",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/74045514",
                 "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-31-20-12-52.jpg",
