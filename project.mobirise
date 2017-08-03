@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Balakhilya.pl",
-    "currentPage": "lectures.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 166,
+    "uniqCompNum": 167,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -98,6 +98,53 @@
           "title": "Meet Balakhilya das",
           "text": "World teacher Balakhilya das speaks on Yoga &amp; Meditation.<br>Click to see this eye-opening lecture!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index2.html\" data-toolbar=\"-mbrBtnMove\">SEE VIDEO</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_anchor": "extHeader5-4m",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader5-bg.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showText": true,
+            "showVideo": true,
+            "showButtons": true,
+            "showArrow": true,
+            "VideoUrl": "https://vimeo.com/90698307"
+          },
+          "title": "INTRO WITH VIDEO POPUP",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/play-button.svg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
